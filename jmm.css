@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/AJQWtBPRk-kZ-fFdElN67g_I2dukb4S3rexe7ZRx4WO-6nevvm4ynlk8BbX8Qhb525DRVQaRDNLgVDes5Ql6QQ4vkumYhr3tgCia9G8oHfyUzMEx6GA=w840-h879);
+    padding: 24px;
+}
+
+h1{
+    font-size: 48px;
+    margin-top: 0;
+    margin-bottom: 24px;
+
+}
+.zalozeno,.item {
+    font-size: 24px;
+   
+}
+.ovoce,.zelenina{
+    font-size: 38px;
+}
+h1,h2,p{
+    font-family: Roboto;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+  
+.menu {
+    
+    background-color: #9E9494;
+    margin-left: 270px;
+    margin-right: 270px;
+    padding: 24px;
+    
+
+}
+.item p {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 24px;
+    
+  }
+  
+  .flavor .dessert {
+    text-align: left;
+    width: 50%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 50%;
+  }
